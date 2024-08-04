@@ -1,3 +1,5 @@
 # Testing adding a new file to a branch on GitHub
 
 print("This is for learning purposes")
+
+print("Adding some stuff to get used to using the Commit Messages")
